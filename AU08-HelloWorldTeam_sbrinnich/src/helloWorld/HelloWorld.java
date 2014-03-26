@@ -6,6 +6,7 @@ public class HelloWorld {
 		selina();
 		inga();
 		niklas();
+		tobi();
 	}
 	
 	public static void selina(){
@@ -18,6 +19,9 @@ public class HelloWorld {
 	
 	public static void niklas(){
 		System.out.println("Grüße von Niklas! :)");
+	}
+	public static void tobi(){
+		System.out.println("Tobi bricht Combo... hi :D");
 	}
 
 }
